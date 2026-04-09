@@ -2,7 +2,11 @@
 
 All notable changes to SetupClaw will be documented here. New entries are appended at the top.
 
-## Unreleased — First Public Release
+## Unreleased
+
+Planned changes land here until they ship in a tagged release.
+
+## v2026.4.900 — 2026-04-09 — First Public Release
 
 > **Overview:** First public release of SetupClaw Desktop — a GUI setup wizard and management console for OpenClaw. This release ships a full Chat interface, a 9-platform IM channel manager, the Agents dashboard with a guided builder, a redesigned dashboard and welcome experience, and fully wired auto-update via GitHub Releases. Available for macOS 11+ (Intel and Apple Silicon), signed and notarized by Apple.
 
